@@ -47,12 +47,27 @@ parallel-statistics-openmp/
 
 Compile the project using:
 
-bash
+```bash
 g++ main.cpp estadisticas.cpp -fopenmp -o statistics
+```
 
+## Execution
+
+Windows:
+
+```bash
+statistics.exe
+```
+
+Linux / macOS:
+
+```bash
+./statistics
+```
 
 ## Example Output
 
+```
 ===== ESTADISTICA OPENMP =====
 
 Datos: 1000000
@@ -66,8 +81,8 @@ Varianza: 833421234.22
 Desviacion: 28869.39
 
 Tiempo ejecucion: 120.54 ms
-
-<img width="336" height="253" alt="OMP" src="https://github.com/user-attachments/assets/d41f4489-9a98-4f65-b1b7-16bfc56d8b22" />
+```
+<img width="336" height="253" alt="OMP" src="https://github.com/user-attachments/assets/739383fc-c731-4f82-9a7d-ad51e26b735c" />
 
 
 ## Español
