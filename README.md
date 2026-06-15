@@ -67,6 +67,9 @@ Desviacion: 28869.39
 
 Tiempo ejecucion: 120.54 ms
 
+<img width="336" height="253" alt="OMP" src="https://github.com/user-attachments/assets/d41f4489-9a98-4f65-b1b7-16bfc56d8b22" />
+
+
 ## Español
 
 Programa de análisis estadístico desarrollado en **C++** utilizando **OpenMP** para procesamiento paralelo.
